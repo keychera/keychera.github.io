@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+li.item {
+    display: inline-block;
+}
+
+.leftItem {
+    float: left;
+}
+
+.rightItem {
+    float: left;
+}
+
+.itemHead {
+    color: black;
+}
+
+.itemDesc {
+    color: darkgray;
+}
+
+.itemImg {
+    height: 3em;
+    width: 3em;
+}
