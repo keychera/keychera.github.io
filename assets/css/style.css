@@ -4,17 +4,36 @@
     box-sizing: border-box;
 }
 
-.wrapper,
-.card {
-    padding: 20px;
-}
-
-.card {
-    max-width: 33%;
-    float: left;
+body {
+    background-color: rgb(215, 215, 200);
 }
 
 #main.wrapper {
+    width: 1000px;
     margin: 0 auto;
-    max-width: 1000px;
+}
+
+.wrapper,
+.card {
+    padding: 10px;
+}
+
+.card {
+    width: 225px;
+    float: left;
+    background-color: rgb(245, 245, 230);
+    margin: 10px;
+}
+
+#sub.card {
+    width: 715px;
+}
+
+#head.card {
+    height: 420px;
+}
+
+#sub.card,
+.item.card {
+    height: 200px;
 }
