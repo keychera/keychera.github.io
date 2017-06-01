@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: 'Comfortaa', cursive;
 }
 
 body {
@@ -19,21 +20,38 @@ body {
 }
 
 .card {
-    width: 225px;
+    width: 22.5%;
     float: left;
     background-color: rgb(245, 245, 230);
     margin: 10px;
+    position: relative;
 }
 
-#sub.card {
-    width: 715px;
+.content-wrapper {
+    position: absolute;
+    bottom: 0;
+    margin: 1em;
 }
 
 #head.card {
     height: 420px;
 }
 
-#sub.card,
-.item.card {
-    height: 200px;
+#sub.card {
+    width: 71.5%;
+    height: 120px;
 }
+
+.item.card {
+    height: 280px;
+}
+
+h1#main-heading {
+    margin-bottom: 0.25em;
+}
+
+h3.item-heading {
+    margin-bottom: 0.5em;
+}
+
+@media only screen and (max-width: 1000px) {}
