@@ -14,8 +14,7 @@ body {
     margin: 0 auto;
 }
 
-.wrapper,
-.card {
+.wrapper {
     padding: 10px;
 }
 
@@ -25,12 +24,20 @@ body {
     background-color: rgb(245, 245, 230);
     margin: 10px;
     position: relative;
+    overflow: hidden;
+}
+
+img {
+    width: 180%;
+    z-index: -1;
 }
 
 .content-wrapper {
+    overflow: hidden;
     position: absolute;
     bottom: 0;
-    margin: 1em;
+    padding: 1em;
+    background-color: rgb(245, 245, 230);
 }
 
 #head.card {
