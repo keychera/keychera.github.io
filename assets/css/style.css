@@ -18,6 +18,10 @@ body {
     padding: 10px;
 }
 
+.sub.wrapper {
+    padding: 0;
+}
+
 .card {
     width: 22.5%;
     float: left;
@@ -46,7 +50,7 @@ img {
     z-index: 0;
 }
 
-.content-wrapper {
+.card-wrapper {
     overflow: hidden;
     position: absolute;
     bottom: 0;
@@ -54,13 +58,19 @@ img {
     z-index: 10;
 }
 
+.article-wrapper {
+    padding: 10px 20px 10px 40px;
+    background-color: rgb(245, 245, 230);
+    z-index: 10;
+}
+
 #head.card {
     height: 320px;
 }
 
-#sub.card {
+.wide.card {
     width: 71.5%;
-    height: 120px;
+    min-height: 120px;
 }
 
 .item.card {
@@ -73,6 +83,20 @@ h1#main-heading {
 
 h3.item-heading {
     margin-bottom: 0.5em;
+}
+
+p {
+    margin-bottom: 20px;
+}
+
+.item-title {
+    letter-spacing: 3px;
+    line-height: 3em;
+}
+
+.item-desc {
+    letter-spacing: 2px;
+    line-height: 2em;
 }
 
 @media only screen and (max-width: 1000px) {}

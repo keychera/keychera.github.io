@@ -1,10 +1,11 @@
+var triFactor = 0.1;
+
 function main() {
-    $('.card').hide();
-    $('.card').fadeIn(1000);
     $('.card').on("mouseenter", function() {
-        $(this).children('.tri-cover').animate({ bottom: "-=20" }, 200);
+        $(this).children('.tri-cover').animate({ bottom: "-=20" }, 100);
     }).on("mouseleave", function() {
-        $(this).children('.tri-cover').animate({ bottom: "0" }, 200);
+        $(this).children('.tri-cover').animate({ bottom: "0" }, 100);
+        $(this).stop(true);
     });
 }
 
