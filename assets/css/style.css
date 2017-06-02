@@ -21,15 +21,29 @@ body {
 .card {
     width: 22.5%;
     float: left;
-    background-color: rgb(245, 245, 230);
+    background-color: #171B38;
     margin: 10px;
     position: relative;
     overflow: hidden;
 }
 
 img {
-    width: 180%;
-    z-index: -1;
+    z-index: -10;
+    width: 100%;
+}
+
+.tri-cover {
+    width: 0;
+    height: 0;
+    border-top-width: 10em;
+    border-top-style: solid;
+    border-top-color: transparent;
+    border-left-width: 40em;
+    border-left-style: solid;
+    border-left-color: rgb(245, 245, 230);
+    position: absolute;
+    bottom: 0;
+    z-index: 0;
 }
 
 .content-wrapper {
@@ -37,11 +51,11 @@ img {
     position: absolute;
     bottom: 0;
     padding: 1em;
-    background-color: rgb(245, 245, 230);
+    z-index: 10;
 }
 
 #head.card {
-    height: 420px;
+    height: 320px;
 }
 
 #sub.card {
@@ -50,7 +64,7 @@ img {
 }
 
 .item.card {
-    height: 280px;
+    height: 180px;
 }
 
 h1#main-heading {
