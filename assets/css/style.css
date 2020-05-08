@@ -17,7 +17,7 @@ ruling on css element order
 }
 
 body {
-    background-color: rgb(215, 215, 200);
+    background-color: rgb(215, 215, 215);
 }
 
 #main.wrapper {
@@ -55,7 +55,7 @@ img {
     border-top-color: transparent;
     border-left-width: 40em;
     border-left-style: solid;
-    border-left-color: rgb(245, 245, 230);
+    border-left-color: rgb(245, 245, 245);
     position: absolute;
     bottom: 0;
     z-index: 0;
@@ -71,7 +71,7 @@ img {
 
 .article-wrapper {
     padding: 10px 20px 10px 40px;
-    background-color: rgb(245, 245, 230);
+    background-color: rgb(255, 255, 255);
     z-index: 10;
 }
 
