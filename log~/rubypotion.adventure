@@ -29,3 +29,16 @@ t (10/5/20)
 
 o ref(10)
     + note (idea: ...the fight unfolding in the corridor)
+
+o ref(5) (forgot something)
+    + done (basic asset to arrange and initial scripting)
+    + done (dealing with TileMap and made a moving character following TileMap neatly)
+
++ note (for today)
+    + done (make continuously decreasing health label, dying, and button to make it survive)
+        + note (question: how do we arrange the nodes so script call and animationis not troublesome?)
+            + note (problem: the animation is messy when new label was attached)
+        + note (question: signal or direct call?)
+        + note (a lesson on: only one script for one node)
+        + TODO (ARRANGE THE FILES and ASSETS!)
+    + done (init version control w/ git, of course)
