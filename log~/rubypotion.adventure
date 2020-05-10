@@ -21,3 +21,11 @@ t (10/5/20)
     + done (make some game mockup)
         + note (using some free assets such as King and Pigs (https://pixel-frog.itch.io/kings-and-pigs))
     + done (tried out deploying to Android and met success)
+
++ note (what's next)
+    + TODO (make the simple healing potion giving mechanic to roaming dying character on screen)
+        + TODO (try to make the minecraft-like 9x9 crafting for potion making)
+    + TODO (design the object arrangement)
+
+o ref(10)
+    + note (idea: ...the fight unfolding in the corridor)
