@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Here is Chera!"
+date:   2020-05-10 7:16:46 +0700
+categories: jekyll update
+---
+
+# Chera is here
