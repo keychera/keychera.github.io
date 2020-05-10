@@ -39,3 +39,6 @@ t (10/5/20)
     + note (example: commit's timestamp will be used for diaries entries' timestamps)
     + note (also, the extension should be .diary instead, shorter, more theme-fitting)
         + note (however, I really like .adventure and I already used it in resavant's)
+
+o ref(25)
+    + done
