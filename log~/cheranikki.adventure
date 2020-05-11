@@ -42,3 +42,7 @@ t (10/5/20)
 
 o ref(25)
     + done
+
+t (11/5/20)
++ note (question: if we rely on commits info for these diaries entries, would it be cluttered in the future the more new diaries we have?)
+    + TODO (btw, add the _self/workout.adventure as well)
