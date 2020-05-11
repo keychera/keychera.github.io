@@ -42,3 +42,14 @@ o ref(5) (forgot something)
         + note (a lesson on: only one script for one node)
         + TODO (ARRANGE THE FILES and ASSETS!)
     + done (init version control w/ git, of course)
+
+t (11/5/20)
++ done (make a character spawner and button to randomly save the spawned)
+    + note (a lesson on how to connect the signal from the spawned)
+    + note (problem: how to keep track the spawned objects and access them)
+        + note (solution: using dict and object.get_instance_id() as keys)
+    + note (a lesson on signal; connect, passing values)
+
++ TODO (find out how to select a random starting position for the spawned character)
+
++ note (currently we make it as we think it, no regards of code neatness for now)
