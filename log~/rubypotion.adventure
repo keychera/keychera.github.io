@@ -53,3 +53,10 @@ t (11/5/20)
 + TODO (find out how to select a random starting position for the spawned character)
 
 + note (currently we make it as we think it, no regards of code neatness for now)
+
+t (12/5/20)
++ TODO (make the characters clickable and respond with something)
+    + done (not so hard using signals and the already built character tracker from ref(50))
+
++ TODO (slow down the pace of everything, health decreasing, movement, etc...)
++ TODO (actions give the character potion)
