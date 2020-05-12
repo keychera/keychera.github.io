@@ -60,3 +60,13 @@ t (12/5/20)
 
 + TODO (slow down the pace of everything, health decreasing, movement, etc...)
 + TODO (actions give the character potion)
+
+o ref(53, 61)
+    + done (does not change much actually)
+        + note (random position is helped by the method `TileMap.map_to_world`)
+            + note (problem: Tiling position is still incorrect(offset to the side))
+                + TODO (fix above)
+        + note (the pacing is done by tweaking numbers)
+            + TODO (make the pacing controlled in a neat fashion, in one place or something)
+
++ note (for now, let's redesign what we wanna make for the first prototype)
