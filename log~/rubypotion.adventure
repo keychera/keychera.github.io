@@ -70,3 +70,13 @@ o ref(53, 61)
             + TODO (make the pacing controlled in a neat fashion, in one place or something)
 
 + note (for now, let's redesign what we wanna make for the first prototype)
+
+t (13/5/20)
++ note (idea: growing from ref(15))
+    + note (simple gameplay loop: come the broken soldiers -> give stabilizing potion -> make healing potion -> give them)
+        + note (more detail on paper)
+    + note (idea: using pattern as mechanic, those pattern that usually used in phone locks)
+        + TODO (make the pattern system)
+    + note (we are actually confused where to start now hmm)
+
++ TODO (design assets for potion-related stuffs)
