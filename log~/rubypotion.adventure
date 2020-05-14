@@ -87,3 +87,8 @@ t (14/5/20)
 + done (early pattern system, flexible points, only make the point colored as selected so far)
     + note (a lesson on InputEventScreenDrag, thanks to this guy: https://godotengine.org/qa/30933/differentiate-inputeventscreentouch-inputeventscreendrag)
     + note (problem: if touch is released outside the collision area, it doesn't register as screendrag end)
+
++ done (more on the pattern system, now features line drawing and close to the real one)
+    + note (a lesson on event.position, learning that the value is weird, will be correct if it is minus self.position(the position of the event listener))
+    + note (question: is our implementation a neat one for detecting ScreenDrag's end?)
+        + note (our assumption is that the ScreenDrag end when the last event receive a ScreenTouch event type instead)
