@@ -80,3 +80,10 @@ t (13/5/20)
     + note (we are actually confused where to start now hmm)
 
 + TODO (design assets for potion-related stuffs)
+
+t (14/5/20)
++ note (a lesson on the GDscript code convention: https://docs.godotengine.org/en/stable/getting_started/scripting/gdscript/gdscript_styleguide.html)
+
++ done (early pattern system, flexible points, only make the point colored as selected so far)
+    + note (a lesson on InputEventScreenDrag, thanks to this guy: https://godotengine.org/qa/30933/differentiate-inputeventscreentouch-inputeventscreendrag)
+    + note (problem: if touch is released outside the collision area, it doesn't register as screendrag end)
