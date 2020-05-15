@@ -92,3 +92,12 @@ t (14/5/20)
     + note (a lesson on event.position, learning that the value is weird, will be correct if it is minus self.position(the position of the event listener))
     + note (question: is our implementation a neat one for detecting ScreenDrag's end?)
         + note (our assumption is that the ScreenDrag end when the last event receive a ScreenTouch event type instead)
+
+t (15/5/20)
++ note (somehow this gives me inspiration that I can't grasp quite yet: https://www.youtube.com/watch?v=PbJaOaXthhk)
+
+o ref(79)
+    + done
+        + TODO (extend pattern system to potion making system)
+            + note (idea: time-sensitive pattern)
+        + TODO (timer system so we can set the game pacing)
