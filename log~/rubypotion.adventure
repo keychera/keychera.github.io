@@ -137,3 +137,8 @@ o ref(123)
     + note (the error appears yet again, but this time we fixed it by below)
         + note (solution: detach script > move scripts > reattach scripts)
             + note (don't know why it works, but it works!)
+
++ done (add neat gem system in Cauldron, visual only so far)
+    + note (a lesson on function override and call base func by prepending a dot)
+    + note (a lesson on making a mathematical formlula on a position series that is different for odd number of elements and even number of elements)
+        + note ((x + 2m) * (i + 0.5))
