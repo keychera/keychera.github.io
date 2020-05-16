@@ -116,3 +116,19 @@ o ref(79)
 
     + note (solution, discard everything :()
         + note (so glad we git)
+
+o ref(105)
+    + note (it turns out, the cause is because I reparent the nodes into another node to group it)
+        + note (a lesson on that Node.get_children() only return direct children)
+        + note (the error seems cascase to another signal apparently?)
+        + note (solution: use 'Group' and get all node from group instead reading from children)
+            + note (remember that we refer it to string so changing group's name needs caution)
+
++ note (problem: somehow a value won't pass using signal from these two scene)
+    + note (suspect, value can't be passed between instanced scenes?)
+
+t (16/5/2020)
+
+o ref(127)
+    + note (solution, it's because you forgot the keyword 'return' in one of the passing method.... :/)
+        + note (daaaaang it how did I even miss that, I spent like 6 hours!)
