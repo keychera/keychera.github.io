@@ -127,7 +127,7 @@ o ref(105)
 + note (problem: somehow a value won't pass using signal from these two scene)
     + note (suspect, value can't be passed between instanced scenes?)
 
-t (16/5/2020)
+t (16/5/20)
 
 o ref(127)
     + note (solution, it's because you forgot the keyword 'return' in one of the passing method.... :/)
@@ -142,3 +142,8 @@ o ref(123)
     + note (a lesson on function override and call base func by prepending a dot)
     + note (a lesson on making a mathematical formlula on a position series that is different for odd number of elements and even number of elements)
         + note ((x + 2m) * (i + 0.5))
+
+t (17/5/20)
++ done (added a sweet tweening when a gem is added)
+    + note (a lesson on being careful when changing method names, you have to expect it to be broken)
+    + TODO (our code is messy, clean it up following gdscript styles ref(85))
