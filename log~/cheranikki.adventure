@@ -46,3 +46,8 @@ o ref(25)
 t (11/5/20)
 + note (question: if we rely on commits info for these diaries entries, would it be cluttered in the future the more new diaries we have?)
     + TODO (btw, add the _self/workout.adventure as well)
+
+t (17/5/20)
++ note (so far we haven't been able to allocate time for this)
+
++ note (problem: using '#' in commit messages makes it a reference to a github issue, so don't do it)
