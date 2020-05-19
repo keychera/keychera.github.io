@@ -167,3 +167,12 @@ o ref(105,109,110,120)
         + note (it seems the remote debug system needs the code to be the same as what is deployed)
             + note (so if you deploy to android, and then change the code a bit and save it, it will break things in the deployed app)
                 + note (the most apparent break is that all signal lost their connection, hence ref(110))
+
+t (19/5/20)
++ note (currently designing first before dive further)
+    + note (designing includes building prototype assets)
+        + TODO (reassemble everything to fit the more robust design)
+    + note (need to learn the control node and how it behaves)
+        + note (question: do pattern points fit more if we use control node?)
+
++ note (problem: a little visual bug, if we end pattern before animation finished, the animation will stop)
