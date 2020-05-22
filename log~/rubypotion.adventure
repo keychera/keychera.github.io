@@ -176,3 +176,11 @@ t (19/5/20)
         + note (question: do pattern points fit more if we use control node?)
 
 + note (problem: a little visual bug, if we end pattern before animation finished, the animation will stop)
+
+t (22/5/20)
++ note (back after designing stuff)
+    + note (initially we want pixel stuff, but both miracle merchant and helltaker opened my eyes and now we changed artyle directions!)
+        + note (plus more simplistic, linear play to aim first)
+        + note (and we made the mock(v3 now and it looks gooood!))
+
++ done (reassemble everything with new art with pattern system already setup)
