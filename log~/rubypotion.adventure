@@ -194,3 +194,18 @@ t (23/6/20)
         + note (and that is the 'fantasy', we will make something that has strong story impression and we already have that vision)
 
 + TODO (a small one, capture the pattern and make it receive 5 patterns maximum)
+
++ note ( a lesson on godot's project organization: https://docs.godotengine.org/en/stable/getting_started/workflow/project_setup/project_organization.html)
+    + note ("make things as close to the scene as possible")
+        + note (this is why new scripts is automatically store near the scene file when created)
+
++ note ( interesting read: http://gameprogrammingpatterns.com , I just read the command section for now)
+
++ done (reorganization following ref(198))
+
++ done (making the "RuneDrawer")
+    + note (a lesson on using key to iterate dictionary)
+    + note (wow....we managed to abstractify the Centerizer's code, for determining new location based on integer row and column numbering)
+    + question (is there a better way to encapsulate the pattern? pattern data is currently defined inside the Pattern node scripts, using arrays and dictionary)
+
++ note (a lesson on changing the inspector value in-editor while remote debug deploy, you can do that apprently, neat)
