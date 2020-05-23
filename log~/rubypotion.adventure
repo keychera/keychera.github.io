@@ -36,9 +36,9 @@ o ref(5) (forgot something)
 
 + note (for today)
     + done (make continuously decreasing health label, dying, and button to make it survive)
-        + note (question: how do we arrange the nodes so script call and animationis not troublesome?)
+        + question ( how do we arrange the nodes so script call and animationis not troublesome?)
             + note (problem: the animation is messy when new label was attached)
-        + note (question: signal or direct call?)
+        + question ( signal or direct call?)
         + note (a lesson on: only one script for one node)
         + TODO (ARRANGE THE FILES and ASSETS!)
     + done (init version control w/ git, of course)
@@ -90,7 +90,7 @@ t (14/5/20)
 
 + done (more on the pattern system, now features line drawing and close to the real one)
     + note (a lesson on event.position, learning that the value is weird, will be correct if it is minus self.position(the position of the event listener))
-    + note (question: is our implementation a neat one for detecting ScreenDrag's end?)
+    + question ( is our implementation a neat one for detecting ScreenDrag's end?)
         + note (our assumption is that the ScreenDrag end when the last event received is a ScreenTouch event type instead)
 
 t (15/5/20)
@@ -173,7 +173,7 @@ t (19/5/20)
     + note (designing includes building prototype assets)
         + TODO (reassemble everything to fit the more robust design)
     + note (need to learn the control node and how it behaves)
-        + note (question: do pattern points fit more if we use control node?)
+        + question ( do pattern points fit more if we use control node?)
 
 + note (problem: a little visual bug, if we end pattern before animation finished, the animation will stop)
 
@@ -209,3 +209,21 @@ t (23/6/20)
     + question (is there a better way to encapsulate the pattern? pattern data is currently defined inside the Pattern node scripts, using arrays and dictionary)
 
 + note (a lesson on changing the inspector value in-editor while remote debug deploy, you can do that apprently, neat)
+
++ note (well, shader is reall interesting)
+    + note (I started from here: https://docs.godotengine.org/en/3.1/tutorials/shading/your_first_shader/index.html)
+        + note (and then here: https://thebookofshaders.com)
+            + note (and holy the possibilities are endless, now the problem is to grasp all these "fences" first)
+
++ note (with this shader learning going on, our iteration to this game will be this)
+    + note (the steps are below)
+        + note (step 1, implement the core gameplay mechanic little by little, decouple visual and mechanic parts!)
+        + note (step 2, 'reify' your vision more, draw the next vision, pour it all on the paper)
+        + note (step 3, learn and experiment the shader)
+    + note (for now the todos are below)
+        + TODO (make the "pattern gauntlet", give patterns to follow and rate the accuracy)
+        + TODO (plan the asset more for the "intro")
+
+o ref(209)
+    + note (interesting, we unknowingly use 'question' as a tag, might as well use it for everywhere else) meta
+        + done (change every note-question to question tag) meta
