@@ -238,3 +238,13 @@ t (25/5/20)
             + question (how to properly control animation and input happenings? don't want them to clash and break)
 
 + meta (change note:problem, note:solution, mote meta now to follow ref(229))
+
++ done (make the pattern react or "answer" the rune set, the first loop of gameplay is here)
+    + note (not much feedback and the "feel", and this is the challenge)
+        + note (actually some pattern is really hard to follow)
+    + note (which mean)
+        o ref(224)
+            + note (the accuracy is set aside later, we're focusing to snappy feedback first and cool look)
+
++ TODO (how to make it look cool)
+    + TODO (deal with animation needs as ref(237) mentioned)
