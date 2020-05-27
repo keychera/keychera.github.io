@@ -248,3 +248,12 @@ t (25/5/20)
 
 + TODO (how to make it look cool)
     + TODO (deal with animation needs as ref(237) mentioned)
+
+t (27/6/20)
++ problem (playtesting shows the rune drawn still unclear which point is the start and which order)
+    + note (also it is still kinda needlessly complex)
+    + note (the rune also kinda not good looking if it only half sized)
+        + question (maybe preset runes would be better?)
+
+o ref(224)
+    + done (at ref(246), we forgot to add done)
