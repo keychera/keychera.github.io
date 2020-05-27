@@ -257,3 +257,9 @@ t (27/6/20)
 
 o ref(224)
     + done (at ref(246), we forgot to add done)
+
++ note (a lesson on yield, AnimationPlayer, and Tween)
+    + note (we also brought back Centerizer's tween animation)
+
++ note (cuurently doing an animated loop of the gameplay)
+    + note (currently ther is a buggy order of animations callback)
