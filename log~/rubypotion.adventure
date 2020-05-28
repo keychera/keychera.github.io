@@ -249,7 +249,7 @@ t (25/5/20)
 + TODO (how to make it look cool)
     + TODO (deal with animation needs as ref(237) mentioned)
 
-t (27/6/20)
+t (27/5/20)
 + problem (playtesting shows the rune drawn still unclear which point is the start and which order)
     + note (also it is still kinda needlessly complex)
     + note (the rune also kinda not good looking if it only half sized)
@@ -263,3 +263,12 @@ o ref(224)
 
 + note (cuurently doing an animated loop of the gameplay)
     + note (currently ther is a buggy order of animations callback)
+
+t(28/5/20)
++ done (an animated gameplay loop, this is an attempt to understand the animation)
+    + note (mostly a lesson on yielding and animation order)
+    + note (the bug from ref(265) is caused by incorrectly deleting dictionary while iterating)
+        + solution (duplicate the dictionary first and then iterate with the duplicate one to erase the original)
+
++ note (we decrease the number of point in a line)
+    + note (somehow our random pattern generator often create pattern only the top 6 points on the 3x3 points pattern)
