@@ -290,3 +290,12 @@ t (1/6/20)
     + TODO (finish a good looking prototype to submit to Jonas Tyroller's event of him checking out indie submissions!)
         + note (deadline June 7th 2020!)
         + note (link: Jonas Tyroller ytcommunity tab: https://www.youtube.com/channel/UC_p_9arduPuxM8DHTGIuSOg/community)
+
++ note (eyeopening and lifesaving: https://www.youtube.com/watch?v=fpUchzKtDbQ)
+    + done (reorganizing project files and incorporating new assets as well)
+        + TODO (finish RunePlate and complete the Gauntlet loop)
+
++ problem (the pattern randomizer is not actually random from 1 to 9 order)
+    + TODO (fix this)
+
++ note (a lesson on global var using singletons: https://docs.godotengine.org/en/stable/getting_started/step_by_step/singletons_autoload.html)
