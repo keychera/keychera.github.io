@@ -299,3 +299,10 @@ t (1/6/20)
     + TODO (fix this)
 
 + note (a lesson on global var using singletons: https://docs.godotengine.org/en/stable/getting_started/step_by_step/singletons_autoload.html)
+
+o ref(299)
+    + done (simple)
+
++ done (initial "RunePlate")
+    + problem (syncing Line2D's points position to position from Control nodes is confusing)
+        + solution (make sure the Line2D own position is synced to the parent of the control nodes it refer)
