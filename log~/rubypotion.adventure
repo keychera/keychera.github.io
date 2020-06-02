@@ -318,3 +318,6 @@ t (2/6/20)
     + note (we are getting used to using breakpoints now yea! goodbye print_debug!)
     + done (we are now using Global.pattern_dimension and removing dimension input in PatternHelper's func)
         + note (we are now moving forward with assumption that all pattern will have the same dimension which is 3x3)
+
++ note (we are now dealing with VFX!)
+    + done (trying grayscale shader and using it for gems vfx)
