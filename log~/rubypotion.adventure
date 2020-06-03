@@ -331,3 +331,6 @@ t (3/6/20)
     + problem (another that we encountered, was that we tried to make centerizer for control nodes, but given control does not have centered position, things we made are wonky)
         + note (we need control since RunePlate is a control node)
         + solution (we change RunePlate to Node2D while having Control nodes as children)
+
++ done (more animation fixes and looping)
+    + note (a lesson on using Dictionary.values() to iterate values instead of taking keys and using the keys like we do in ref(207))
