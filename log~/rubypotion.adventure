@@ -321,3 +321,13 @@ t (2/6/20)
 
 + note (we are now dealing with VFX!)
     + done (trying grayscale shader and using it for gems vfx)
+
+t (3/6/20)
++ done (Centerizer and RunePlater)
+    + note (we are working on animating the loop)
+    + problem (animation timing is still wonky and there is some inconsistent centerizing animation)
+        + question (we are relying on yield so animation can be ordered, is this good?)
+            + note (we have both script animation and AnimationPlayer's animation and they need to do things hand in hand)
+    + problem (another that we encountered, was that we tried to make centerizer for control nodes, but given control does not have centered position, things we made are wonky)
+        + note (we need control since RunePlate is a control node)
+        + solution (we change RunePlate to Node2D while having Control nodes as children)
