@@ -340,3 +340,8 @@ t (4/6/20)
     + note (a lesson on calling parameterless `yield()` to make sure the whole function can be come 'yield'able)
     + note (was also trying out particles but problem arise)
         + problem (initially wanted particle to appear as runeplate animated into a smaller object. however, since we put particle as the child, the particle gets smaller as well)
+
++ done (making new asset and entering the dialogues zone)
+    + note (a lesson on not being stuck up on doing things we can't do)
+    + note (this was helpful: https://www.youtube.com/watch?v=kkLqW8WhCgg)
+        + problem (we wanted the text to align center vertically, but it does not do that)
