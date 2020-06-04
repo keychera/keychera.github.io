@@ -334,3 +334,9 @@ t (3/6/20)
 
 + done (more animation fixes and looping)
     + note (a lesson on using Dictionary.values() to iterate values instead of taking keys and using the keys like we do in ref(207))
+
+t (4/6/20)
++ done (inserting new animation inbetween RunePlate execution)
+    + note (a lesson on calling parameterless `yield()` to make sure the whole function can be come 'yield'able)
+    + note (was also trying out particles but problem arise)
+        + problem (initially wanted particle to appear as runeplate animated into a smaller object. however, since we put particle as the child, the particle gets smaller as well)
