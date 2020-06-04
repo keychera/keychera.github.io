@@ -345,3 +345,10 @@ t (4/6/20)
     + note (a lesson on not being stuck up on doing things we can't do)
     + note (this was helpful: https://www.youtube.com/watch?v=kkLqW8WhCgg)
         + problem (we wanted the text to align center vertically, but it does not do that)
+
++ note (we found cool shader to shift hues: https://gist.github.com/mairod/a75e7b44f68110e1576d77419d608786)
+    + note (thank you shader gurus)
+
++ done (asset for potion, trying hueshader, and attempting to animate dynamic instances)
+    + note (a lesson on using .tres instead of .material since .material become a binary file, stinky)
+    + problem (We have trouble animating Centerizer, and animating instanced scenes from "outside" in general)
