@@ -377,3 +377,18 @@ t (6/6/20)
     + done (dynamic actions completed!)
         + note (and we decided to name it "actions" instead of "response")
         + note (I think the "interpreter" is wrapped up kinda nicely now)
+
++ note (we now combine all the color manipulation shader into one)
+    + note (and we make different material that use the same shader)
+        + note (by different I mean the unsaved material that you select in material dropdown `New ShaderMaterial`)
+        + note (this is, however, what we truly want: https://godotengine.org/article/godot-40-gets-global-and-instance-shader-uniforms)
+            + note (kinda coincidental)
+
++ note (we now use the datatype BitMap from godot, it's a binary value matrix for use comparing pattern)
+    + note (sad there is no simple matrix operation in godot)
+        + note (relevant: https://github.com/godotengine/godot/issues/26793)
+            + note (I am here is another use case)
+            + problem (found already, all the runeplate shares same material since it's instanced from the same class)
+                + solution (using material duplicate on ready, answer from: https://godotengine.org/qa/2866/how-do-i-make-material-shader-instances-2d)
+
++ done (the negative runeplate and shader journey for UI)
