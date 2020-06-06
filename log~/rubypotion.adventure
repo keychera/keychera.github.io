@@ -372,3 +372,8 @@ t (6/6/20)
 
 + meta (we kinda rarely set up TODOs and just put some 'done' that we can put out)
     + meta (well deadline is close ref(291))
+
++ rep(271)
+    + done (dynamic actions completed!)
+        + note (and we decided to name it "actions" instead of "response")
+        + note (I think the "interpreter" is wrapped up kinda nicely now)
