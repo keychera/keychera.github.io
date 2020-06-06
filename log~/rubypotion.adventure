@@ -359,3 +359,16 @@ t (5/6/20)
         + note (the yield was in a for loop but the for loop only loop once and it just stop, doesn't touch any more breakpoints inside, or anywhere else, and it doesn't continue to what's after the loop as well! very weird...)
         + note (suspect is one yield we use to wait tween_all_completed never get the signal)
         + solution (not yielding to tween but to good ol timer)
+
+t (6/6/20)
++ note (dawn of the second day)
+
++ done (the storyboarder, dialogues, and stories represented in json, plus a potion request!)
+    + note (the json syntax looks fine *chefkiss* however the interpreter still *vomit*)
+        + note (it's as if we could forget it just like that if we didn't think of it for more than a day)
+            + TODO (somehow represent that system in a paper or a more real way, to reify?)
+        + note (we also plan for dynamic classic dialogue response list that can be configured via json)
+            + TODO (the dialogue response request)
+
++ meta (we kinda rarely set up TODOs and just put some 'done' that we can put out)
+    + meta (well deadline is close ref(291))
