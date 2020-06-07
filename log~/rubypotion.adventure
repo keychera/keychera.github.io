@@ -411,3 +411,7 @@ o ref(404)
     + done (fixed this)
         + note (reason: we were unclear to set when the input is enabled and when is not)
             + note (only enable input to Cafe system for dialog only 'line's, when potion,action, animation, or anythinge else really, is asked, input disabled)
+
++ done (animation integrated to Cafe!! add some Sienna animation)
+    + problem (might arise if anim and dialog is present together. beware)
+    + note (Sienna is the intro character's name btw)
