@@ -373,7 +373,7 @@ t (6/6/20)
 + meta (we kinda rarely set up TODOs and just put some 'done' that we can put out)
     + meta (well deadline is close ref(291))
 
-+ rep(271)
+o ref(271)
     + done (dynamic actions completed!)
         + note (and we decided to name it "actions" instead of "response")
         + note (I think the "interpreter" is wrapped up kinda nicely now)
@@ -407,3 +407,7 @@ t (7/7/20)
 
 + problem (potentially, currently we pass the potion node instead of just potion info to Cafe/storyboarder system, so just remember to queue_free() that potion)
 
+o ref(404)
+    + done (fixed this)
+        + note (reason: we were unclear to set when the input is enabled and when is not)
+            + note (only enable input to Cafe system for dialog only 'line's, when potion,action, animation, or anythinge else really, is asked, input disabled)
