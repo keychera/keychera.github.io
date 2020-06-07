@@ -392,3 +392,18 @@ t (6/6/20)
                 + solution (using material duplicate on ready, answer from: https://godotengine.org/qa/2866/how-do-i-make-material-shader-instances-2d)
 
 + done (the negative runeplate and shader journey for UI)
+
+t (7/7/20)
++ note (dawn of the final day)
+
++ done (potion mix system!, 4 potion visuals: healing, shock, paralysis, damage)
+    + note (apparently error in static func/singletons/autoload is silent errors)
+        + note (silent error means the error doesn't tell you where it's from, it just showed that autoload failed to load)
+    + problem (breakpoints in either singletons or static function somehow doesn't work)
+        + solution (move it to normal scripts in a normal node for now)
+    + problem (weird bug, if we click to fast somehow everything just stop without error when giving response/action to dialogues)
+
++ note (a lesson on making sure whether you are using dictionaries or arrays while looping something)
+
++ problem (potentially, currently we pass the potion node instead of just potion info to Cafe/storyboarder system, so just remember to queue_free() that potion)
+
