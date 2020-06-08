@@ -439,3 +439,14 @@ t (8/7/20)
     + TODO (we need to do the TODO sweep)
 
 + note (this could help ref(424): https://code.visualstudio.com/docs/languages/json, JSON schema part)
+
+o ref(429)
+    + done (add `next` keyword! this one make every jump in the storyboard an `action`)
+        + note (this one saves space and reduce duplication)
+        + note (assumption: we now unable to jump to new verse on line other than ZERO)
+
+o ref(425)
+    + done (partially)
+        + problem (we need to dynamically change the verse but we access it without copying them, so modification can only be done once)
+            + note (like the first potion name printed will be the printed for the rest of the game)
+        + TODO (rework and rethink how we store the data at runtime)
