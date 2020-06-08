@@ -432,3 +432,10 @@ o ref(404)
     + note (tested in a non 16:9 screen, so it doesn't stretch out but gives blacks screen)
         + note (that's good by not elegant)
             + note (上品じゃない！)
+
+t (8/7/20)
++ note (milestone is a delicate period, feels like we easily lose our momentum the moment we lose our grip)
+    + note (kinda not a good mindset as well but eh)
+    + TODO (we need to do the TODO sweep)
+
++ note (this could help ref(424): https://code.visualstudio.com/docs/languages/json, JSON schema part)
