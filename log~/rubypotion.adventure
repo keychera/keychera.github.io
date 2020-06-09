@@ -450,3 +450,8 @@ o ref(425)
         + problem (we need to dynamically change the verse but we access it without copying them, so modification can only be done once)
             + note (like the first potion name printed will be the printed for the rest of the game)
         + TODO (rework and rethink how we store the data at runtime)
+
+t (9/7/20)
+o ref(452)
+    + done (make the cafe store the 'verse' dictionary data instead of just the key)
+        + note (a lesson on dictionary.duplicate() if you want to get a modifible value from on dictionary, or the original will be modified too)
