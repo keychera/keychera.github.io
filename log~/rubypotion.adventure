@@ -540,3 +540,10 @@ o ref(452)
                 + note (actually the scariest and most unpredictable part)
 
 + note (from above, we lean to do ref(533), "finish" the asset first)
+
+t (10/6/20)
++ note (art is hard!)
+    + note (we are still trying to 'reify' our vision with what happen in battles and how the UX will look)
+
++ done (trying out Json schemas to help us build act.json)
+    + problem (we need to check that a certain property values exist as a key in another object, but still can't find out whether it is possible or not)
