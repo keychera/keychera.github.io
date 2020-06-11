@@ -547,3 +547,16 @@ t (10/6/20)
 
 + done (trying out Json schemas to help us build act.json)
     + problem (we need to check that a certain property values exist as a key in another object, but still can't find out whether it is possible or not)
+
+t (11/6/20)
++ note (art is indeed hard, story is hard, making connected gameplay as well)
+
+o ref(530)
+    + note (all these TODOs yet we forgot that the important one isn't finished yet)
+        + TODO (make a complete potion system!)
+            + note (what we need to complete is what kind of potion and give "story" elements to the runes)
+                + note (this is what we've been doing for the day)
+            + note (and then the ux for this main mechanic, including animation)
+            + note (we've been also trying to come up with a battle system that can be complemented with potion system we have or we will make)
+                + note (our 'wants' for the battle is the one that can have emergent events but it seems what we are thinking is big in scale and potentially exponential in resource needed)
+                + note (we are also thinking how we represent the battle and how the potion will affect the course of battle in a representation akin to what we make in cafe system, more variables and stuff)
