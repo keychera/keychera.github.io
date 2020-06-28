@@ -604,3 +604,11 @@ o ref(593)
             + note (a lesson on theme where it needs to be assigned to a control parent)
                 + problem (our control is kinda spread out so theme is assigned to multiple control that have control children)
             + note (a lesson on not getting stuck trying the same things and always try to find workaround fast so you don't feel down)
+
+t (28/6/20)
++ note (we're back!)
+    + note (this time, the silence was because we caught a pretty bad cold, evertyhing went halted for a week)
+
++ done (preparation for the story integration)
+    + done (resizable action buttons)
+        + note (more info tomorrow since we're already tired)
