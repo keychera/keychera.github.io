@@ -58,3 +58,7 @@ t (17/5/20)
     + problem (potential: always make sure to remove potion somewhere in a verse if you dont auto"explode" it in the "throw", using "explode" as well)
 
 + done (add more animation and some more support for it: "endafteranim" dialog, moving potions, scaling summoned dialog)
+
++ done (preparation for timer and interrupting both Gauntlet and Actions)
+    + problem (Gauntlet send a potion object and it's unnecessary, needs rework on that emit_signal system)
+    + question (either it's the potion selection, or the timer/special system that kinda confuse the flow of everything,???)
