@@ -51,3 +51,10 @@ t (17/5/20)
 + note (so far we haven't been able to allocate time for this)
 
 + note (problem: using '#' in commit messages makes it a reference to a github issue, so don't do it)
+
++ problem (godot AnimationPlayer's "copy track" seems problematic, the pasted track will modify the old one if modified)
+
++ problem (potential: unfinished animation with dialog, currently it always stop at the next dialog, but there might be some wrong positioning since the animation can be stopped midway)
+    + problem (potential: always make sure to remove potion somewhere in a verse if you dont auto"explode" it in the "throw", using "explode" as well)
+
++ done (add more animation and some more support for it: "endafteranim" dialog, moving potions, scaling summoned dialog)
