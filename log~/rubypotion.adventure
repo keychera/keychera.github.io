@@ -695,3 +695,11 @@ t (2/7/20)
 + note (our list of researching talented individuals and teams are too big! too many of em wow!)
     + note (out of that many,  we for now picked 5: magium games, freebird games, yiotro, subset games, 111%)
         + note (no special aim picking them, just for the sake of mentioning them here, heh kinda like that personality trait where you go "mention your top 5 fav" or something)
+
++ (7/7/20)
+o ref(683)
+    + note (this particle study will be a visual effect study in general, I decided, since studying just particle felt aimless if we only following tutorial as is)
+
++ done (found some bug, and fixed them)
+    + note (the bug was related to keepdialog tag and endafteranim tag, we reworked them a bit with this)
+    + note (a lesson on clear variable naming)
