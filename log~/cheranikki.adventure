@@ -68,3 +68,13 @@ t (29/9/20)
     + TODO (make an online cv)
         + note (plan in a simple way, build the page with react, and push it to this web, somehow make jekyll and react collaborate)
             + note (we are still clueless about this jekyll x react but we gonna try)
+
++ done (a published react app page!)
+    + note (it was actually not that complicated)
+        + note (followed this as is: https://dev.to/yuribenjamin/how-to-deploy-react-app-in-github-pages-2a1f)
+            + note (some problem encountered: we tried for custom homepage for the app, but it actually need to be the same name as the repo name)
+            + note (the homepage location is actually case sensitive, if it doesn't match, webpage will be showing blank)
+            + note (ref(69) actually there were no conflict with jekyll whatsoever...no conflict so far...)
+
++ note (with react possible, we might visualize `this adventure` using it)
+    + TODO (consider the possibility of a react adventure)
