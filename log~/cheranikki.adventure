@@ -78,3 +78,12 @@ t (29/9/20)
 
 + note (with react possible, we might visualize `this adventure` using it)
     + TODO (consider the possibility of a react adventure)
+
+o ref(77)
+    + problem (so we did encounter the problem with jekyll x react, or as we initially thought so)
+        + note (going to react-playground/cv directly or doing a refresh will give you 404 page)
+            + note (this is because the routing is just on the front end side, there is no actually react-playground/cv in the server)
+                + note (so, jekyll has nothing to do with the error)
+            + solution (this is the one that helped us: https://itnext.io/so-you-want-to-host-your-single-age-react-app-on-github-pages-a826ab01e48)
+                + note (which next lead us to: https://github.com/rafgraph/spa-github-pages)
+                    + note (also our solution is kinda different, using react-helmet and all)
