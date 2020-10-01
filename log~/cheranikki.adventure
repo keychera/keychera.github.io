@@ -87,3 +87,12 @@ o ref(77)
             + solution (this is the one that helped us: https://itnext.io/so-you-want-to-host-your-single-age-react-app-on-github-pages-a826ab01e48)
                 + note (which next lead us to: https://github.com/rafgraph/spa-github-pages)
                     + note (also our solution is kinda different, using react-helmet and all)
+
+t (30/9/20)
+o ref(68)
+    + done (all set!)
+        + problem (the styling is all weird on production, it's as if there is a padding on the html body tag and the fonts are all different!)
+
++ note (i am considering dropping jekyll altogether... but I want to learn ruby hmm)
+    + note (anyway our vision to visualize 'this' is closer to being possible with react!)
+        + TODO (need to learn animation and how to make it look good in react)
