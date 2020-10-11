@@ -96,3 +96,8 @@ o ref(68)
 + note (i am considering dropping jekyll altogether... but I want to learn ruby hmm)
     + note (anyway our vision to visualize 'this' is closer to being possible with react!)
         + TODO (need to learn animation and how to make it look good in react)
+
+t (11/10/20)
++ done (a breakthrough! we managed to deploy a c++ opengl project to gh-pages!)
+    + note (using emscripten and several separate working solutions, we did it)
+        + TODO (try to combine this with react)
