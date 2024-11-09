@@ -1,5 +1,6 @@
 .clj-kondo
 .lsp
 .work
+.calva
 public
 templates
