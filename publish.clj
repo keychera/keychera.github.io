@@ -1,5 +1,5 @@
 #!/usr/bin/env bb
-;; deploy to origin/github-pages
+;; publish by deploying the content of `public` to origin/gh-pages
 
 (require
  '[clojure.string :as str]
