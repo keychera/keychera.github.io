@@ -4,7 +4,8 @@
 (require
  '[clojure.string :as str]
  '[clojure.main :refer [demunge]]
- '[babashka.process :refer [shell]])
+ '[babashka.process :refer [shell]]
+ '[babashka.fs :as fs])
 
 (defn fn-name [a-fn]
   (-> a-fn str demunge (str/split #"@") first (str/replace #"babashka." "")))
@@ -17,6 +18,7 @@
 (def remote-url (-> (shell {:out :string} "git config --get remote.origin.url") :out str/trim-newline))
 
 (defn clean-build []
+  (fs/delete-tree "public/.git" {:force true})
   (does shell "bb quickblog clean")
   (does shell "bb quickblog render"))
 
