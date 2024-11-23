@@ -4,7 +4,7 @@ Tags: random, Honkai: Star Rail
 
 One day in my Discord friend group, the following interaction happened:
 
-![enigmata-facts](img/fact-checked-by-enigmata.png)
+![enigmata-facts](assets/img/fact-checked-by-enigmata.png)
 
 Someone posted a screenshot of news about one of my favorite games, Honkai: Star Rail, winning an award, followed by an image reaction that shows approval and features a character from the Honkai: Star Rail universe. Thematic, playful, the usual atmosphere this Discord server has that I love.
 
@@ -32,7 +32,7 @@ But let's talk about 2 more aspects on how it amuses me: What I encountered alon
 
 While I was verifying my understanding of the path of Enigmata, I encountered this particular in-game text:
 
-![fallacy-recognition](img/recognizability-fallacy.png)
+![fallacy-recognition](assets/img/recognizability-fallacy.png)
 
 This sentence appearing before me feels like a villain has been introduced into my story. It attacked me. I start reflecting on a lot of things all of a sudden. I don't even know if it's a real fallacy or not, but I want to talk about how it affected me at the time. But to do that, let me introduce a bit about myself and the state of mind at the time.
 
@@ -48,7 +48,7 @@ I am amused by my own being.
 
 Another thing that amuses me is the timing of when all of this occured. It just feels like what happened to me recently has been all thematic with Enigmata as the anchor. What follows here will be several things that probably feel like a stretch to be in the conversation, but to me at the moment, it feels like an illusion of a beautiful continuation. Each thing that I will throw here probably needs a dedicated section to explain but I want this to focus on how these all feel connected to me, and it all started from this:
 
-![riddle-me-this](img/the-riddlers.png)
+![riddle-me-this](assets/img/the-riddlers.png)
 
 This text touched on the two factions in the Path of Enigmata, and the focus here, The Riddlers, introduces me to the aspect of a language that I've been oblivious to, the **certainty** aspect of it, and how it can be tampered with.
 
@@ -64,7 +64,7 @@ All of these discoveries and connections amused me a lot.
 
 The experience of writing this article, too, is baffling to me. For a while, I wanted to start writing and there have been a lot of ideas to begin my writing journey. I wanted to talk about my experience attending *Tokyo Emacs* several weeks ago and how it gave me a lot of new perspectives in life. I wanted to talk about how one defines a good software engineer, which stems from another discussion I had with my friends. I wanted to talk about [my drawing][3] journey, an old hobby of mine that I recently picked up again. There are all these topics that are clear and direct, yet this confusing Enigmata is the first article that I finished writing.
 
-![expecting-something](img/expect-me-to-write.png)
+![expecting-something](assets/img/expect-me-to-write.png)
 
 My friends who observed my behavior towards this Enigmata, too, must have been perplexed. I also don't even expect myself to delve into it this deeply. There are several instances where in mid-conversation with my friends, I clearly state "Hey this conversation is nice, but my mind is currently full of Enigmata so I'll probably be less responsive". (I'm sorry for this :p)
 
@@ -86,7 +86,7 @@ Thank you for being confused with me.
 
 Look at my next drawing that is still work in progress, there is no relation to this article whatsoever but I just want you to look at it. When I am done I will post them on my [twitter][3] and [instagram][4] (psst, I post drawing stories in instagram everyday!).
 
-![lulu](img/lulu-wip.png)
+![lulu](assets/img/lulu-wip.png)
 
 
 --- --- 

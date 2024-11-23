@@ -2,10 +2,11 @@
 .lsp
 .work
 .calva
-public/*
-!public/img
-!public/style.css
-templates
+public
+
+templates/*
+!templates/style.css
+
 .scratch
 
 .drafts
