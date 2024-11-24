@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>saychera</title>
+  <link href="https://keychera.github.io/atom.xml" rel="self"/>
+  <link href="https://keychera.github.io/"/>
+  <updated>2024-11-24T00:27:41+00:00</updated>
+  <id>https://keychera.github.io/</id>
+  <author>
+    <name>keychera</name>
+  </author>
+  <entry>
+    <id>https://keychera.github.io/hello.html</id>
+    <link href="https://keychera.github.io/hello.html"/>
+    <title>Hello, Quickblog! Hello, Emacs!</title>
+    <updated>2024-11-10T23:59:59+00:00</updated>
+    <content type="html"><![CDATA[<p>This is me trying to write a blog while also familiarizing myself with Emacs. I wanted to experience the emacs clojure experience but this is still an unfamiliar land for me. The other buffer keeps saying that it fails auto-save. I still don't understand how to wield babashka from here. But that won't stop me. I'll C-x C-s now so that I can finally commit a file and push with Magit. See ya!</p>]]></content>
+  </entry>
+</feed>
